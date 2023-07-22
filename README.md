@@ -1,4 +1,4 @@
-# Hi, I'm Vipin Mehra! 👋
+# Hi, I'm Vipin Singh Mehra! 👋
 
 ![Vipin's github stats](https://github-readme-stats.vercel.app/api?username=vipinmehra535&show_icons=true&theme=react)
 ## 🚀 About Me
