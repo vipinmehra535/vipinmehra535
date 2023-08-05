@@ -1,11 +1,10 @@
 ## Ciao, I'm Vipin Singh Mehra! 👋
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about UI/UX
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about Flutter Devleopment
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love BlackPink songs.
+- 📫 How to reach me: 
 
-## 🚀 About Me
-I'm an 20 year old coding enthusiast with some knowledge in App and Web Development!
 <p align="center">
   <a href="https://www.linkedin.com/in/vimehraa29/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,6 +14,9 @@ I'm an 20 year old coding enthusiast with some knowledge in App and Web Developm
     
   </a>&nbsp;&nbsp;
 </p>
+
+## 🚀 About Me
+I'm an 20 year old coding enthusiast with some knowledge in App and Web Development!
 
 ## 🛠 Skills
 Flutter, Dart, Javascript, HTML, CSS, Firebase, PHP, C
