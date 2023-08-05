@@ -11,10 +11,8 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/vimehraa_29/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-    
   </a>&nbsp;&nbsp;
 </p>
-
 ## 🚀 About Me
 I'm an 20 year old coding enthusiast with some knowledge in App and Web Development!
 
