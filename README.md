@@ -1,7 +1,7 @@
 ## Ciao, I'm Vipin Singh Mehra
 - 💬 Ask me about Flutter Devleopment
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I love BlackPink songs.
+- ⚡ Fun fact: I love Flowers.
 - 📫 How to reach me: 
 
 <p align="center">
