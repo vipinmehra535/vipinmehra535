@@ -20,4 +20,4 @@
 I'm an 20 year old coding enthusiast with some knowledge in App and Web Development!
 
 # 🛠 Skills
-Flutter, Dart, Javascript, HTML, CSS, Firebase, PHP, C
+Flutter, Dart, Javascript, HTML, CSS, Firebase, Node JS, C
