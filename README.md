@@ -1,4 +1,4 @@
-## Ciao, I'm Vipin Singh Mehra
+## Ciao, I'm Vipin Mehra
 - 💬 Ask me about Flutter and Back-End Devleopment
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Flowers.
