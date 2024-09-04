@@ -70,3 +70,6 @@ I'm an 20 year old coding enthusiast with some knowledge in App and Web Developm
     </p>
 </div>
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
