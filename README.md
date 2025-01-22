@@ -1,6 +1,7 @@
 ## Hola Amigo, I'm Vipin Mehra
 - 💬 Ask me about Flutter and Back-End Devleopment
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
+- 👨‍🎓 Currently Learning: React JS
 - ⚡ Fun fact: I love Flowers.
 
 
