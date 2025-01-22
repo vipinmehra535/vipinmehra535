@@ -14,7 +14,7 @@ I'm an 20 year old coding enthusiast with some knowledge in App and Web Developm
 
 
 <div align="center" style="display: flex; justify-content: space-evenly;" >
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmehra535&"
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vipinmehra535"
         alt="vipinmehra535" /><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=vipinmehra535&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
         height="150" alt="stats graph"/> 
