@@ -4,6 +4,7 @@
 - 😄 Pronouns: He/Him
 - 👨‍🎓 Currently Learning: React JS
 - ⚡ Fun fact: I love Flowers.
+- 👀 I’m a full-stack developer skilled in Flutter for mobile apps and Node.js for backend systems. My projects range from ChatUp, a real-time multi-platform chat application built with Flutter and Firebase, to Blogify, a modern blogging platform using the MERN-style stack with Express, MongoDB, and EJS. I’m constantly expanding my toolkit, and currently diving into React.js.
 
 
 # 🛠 Languages and Tools
