@@ -25,7 +25,7 @@ I'm an 22 year old coding enthusiast with some knowledge in App and Web Developm
         height="150" alt="languages graph" />
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinmehra535&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinmehra535&theme=github-dark&radius=13&order=55" height="365" alt="activity-graph graph" /> -->
 
 
 
